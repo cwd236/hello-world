@@ -1,0 +1,9 @@
+# C++ 编译产物
+*.exe
+*.o
+*.out
+
+# 编辑器/系统
+.vscode/
+.idea/
+Thumbs.db
